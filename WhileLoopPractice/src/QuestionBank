@@ -1,0 +1,54 @@
+Beginner Level
+1.Print numbers from 1 to 10 using a while loop. -Done
+2.Print all even numbers between 1 and 20. -Done
+3.Print all odd numbers between 1 and 15. -Done
+4.Display the multiplication table of 5 up to 10. -Done
+5.Print numbers from 10 to 1 in reverse order. -Done
+___________________________________________________________
+Intermediate Level
+6.Find the sum of the first 10 natural numbers. -Done
+7.Find the sum of all even numbers between 1 and 50. -Done
+8.Display the factorial of a given number, e.g., 5 → 120. -Pending
+9.Print the digits of a number, e.g., for 1234 → 4 3 2 1. -Pending
+10.Find the sum of digits of a number, e.g., 123 → 6. -Pending
+___________________________________________________________
+Pattern Practice
+11.Print a right-angled triangle of * with 5 rows: -Done
+*
+**
+***
+****
+*****
+Print a reverse triangle of numbers:
+12345
+1234
+123
+12
+1
+___________________________________________________________
+Logic-Based
+Find whether a number is palindrome, e.g., 121 → Palindrome.
+Count the number of digits in a given number.
+Reverse a number, e.g., 1234 → 4321.
+Find the largest digit in a number.
+Find whether a number is Armstrong (like 153 → Yes).
+___________________________________________________________
+Challenge Level
+Display the Fibonacci series up to 10 terms.
+Print all prime numbers between 1 and 50.
+Find the LCM and HCF of two given numbers.
+Generate a number pyramid like this:
+1
+22
+333
+4444
+55555
+Check whether a number is perfect, e.g., 6 → Yes.
+Print all numbers divisible by both 3 and 5 between 1 and 100.
+Find the product of digits of a given number.
+Print a pattern of alternate numbers:
+1
+12
+123
+1234
+12345
