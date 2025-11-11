@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aditya_java.iml" filepath="$PROJECT_DIR$/.idea/Aditya_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log_Info/Log_Info.iml" filepath="$PROJECT_DIR$/Log_Info/Log_Info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsPractice/LoopsPractice.iml" filepath="$PROJECT_DIR$/LoopsPractice/LoopsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PercentageFinder/PercentageFinder.iml" filepath="$PROJECT_DIR$/PercentageFinder/PercentageFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleInterest/SimpleInterest.iml" filepath="$PROJECT_DIR$/SimpleInterest/SimpleInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquareNumbers/SquareNumbers.iml" filepath="$PROJECT_DIR$/SquareNumbers/SquareNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Table/Table.iml" filepath="$PROJECT_DIR$/Table/Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" filepath="$PROJECT_DIR$/TrafficSignal/TrafficSignal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Log_Info/V1/V1.iml" filepath="$PROJECT_DIR$/Log_Info/V1/V1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoopPractice/WhileLoopPractice.iml" filepath="$PROJECT_DIR$/WhileLoopPractice/WhileLoopPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Table/v1/v1.iml" filepath="$PROJECT_DIR$/Table/v1/v1.iml" />
+    </modules>
+  </component>
+</project>
