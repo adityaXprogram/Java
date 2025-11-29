@@ -14,11 +14,13 @@ import com.calculator.v2.CalculatorLogicPackage.Cube_Package.cube;
 import com.calculator.v2.CalculatorLogicPackage.SquareRoot_Package.SqRoot;
 // importing ends here
 
-class Calculator_v2{
+class Calculator_v2 {
     Scanner jp = new Scanner(System.in);
     int choice;
-    void UserChoice(){
-        System.out.println("To choose a calculation, enter the number shown before it. For example: 1 for Addition, 2 for Subtraction");
+
+    void UserChoice() {
+        System.out.println(
+                "To choose a calculation, enter the number shown before it. For example: 1 for Addition, 2 for Subtraction");
         System.out.println("1. Addition");
         System.out.println("2. Subtraction");
         System.out.println("3. Multiplication");
@@ -33,7 +35,7 @@ class Calculator_v2{
         choice = jp.nextInt();
     }
 
-    void Calculator_v2_Logic(){
+    void Calculator_v2_Logic() {
         switch (choice) {
             case 1 -> {
                 addition objAdd = new addition();
@@ -80,6 +82,7 @@ class Calculator_v2{
             default -> System.out.println("Invalid choice!");
         }
     }
+
     public static void main(String[] args) {
         Calculator_v2 mr_calcu = new Calculator_v2();
         mr_calcu.UserChoice();

@@ -10,5 +10,6 @@ public class NumberReverseWithoutZeros {
             num = num / 10;
         }
         System.out.print(reverse);
+        io.close();
     }
 }

@@ -12,5 +12,6 @@ public class ProductOfFactors {
             factor++;
         }
         System.out.print("Sum of factor of "+num+" is "+sum);
+        io.close();
     }
 }

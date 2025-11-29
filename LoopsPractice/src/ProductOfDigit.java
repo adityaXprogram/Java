@@ -9,5 +9,6 @@ public class ProductOfDigit {
             num /= 10;
         }
         System.out.print(product);
+        io.close();
     }
 }
